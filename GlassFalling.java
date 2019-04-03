@@ -3,7 +3,8 @@
  * You are the designer and inventor of a shock-proof landing mat that could catch the fall of glass from a certain height.
  * You want to guarantee that up to a certain number of floors, the glass will not break.
  * You need to calculate that highest floor X where the glass will not break, but you only have a set amount of glass panes.
- */
+  * Author: Kaven Vohra
+ *
 public class GlassFalling {
 
 	/**
